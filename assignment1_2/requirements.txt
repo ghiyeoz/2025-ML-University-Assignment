@@ -1,0 +1,23 @@
+# Core numerical stack
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+scipy>=1.12
+
+# Plotting & visualization
+matplotlib>=3.9
+seaborn>=0.13
+
+# Image handling / segmentation
+scikit-image>=0.23
+Pillow>=10.0
+
+# Jupyter
+notebook>=7.2
+ipykernel>=6.0     
+
+# For progress bars
+tqdm>=4.66       
+
+# Computer vision
+opencv-python
